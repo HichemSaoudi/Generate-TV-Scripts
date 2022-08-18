@@ -5,12 +5,12 @@ Objective: Generate your own Seinfeld TV scripts using RNNs. The input data was 
 
 What I learnt:
 
-1.Implemening Pre-processing Functions on the dataset:
+## 1. Implemening Pre-processing Functions on the dataset:
 
  * Lookup Table
  * Tokenize Punctuation
  
-2.Building the Neural Network:
+## 2. Building the Neural Network:
 
  * Batching the data
  * Creating dataloaders
@@ -20,6 +20,6 @@ What I learnt:
  * Apply forward and back propagation
 
 
-3.Traning the Neural Network:
+## 3. Traning the Neural Network:
 
  * Setting the hyperparameters for optimal loss values.
